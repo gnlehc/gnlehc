@@ -8,5 +8,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-(https://skillicons.dev/icons?i=go,js,ts,nodejs,express,react,nextjs,vue,tailwind,vite,html,css,python,php,aws,bash,linux,postgres,mysql,redis,kafka,docker,vercel,netlify,vscode,figma)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,nodejs,express,react,nextjs,vue,tailwind,vite,html,css,python,php,aws,bash,linux,postgres,mysql,redis,kafka,docker,vercel,netlify,vscode,figma)](https://skillicons.dev)
